@@ -39,6 +39,13 @@
 
 ---
 
+### 🔥 Sequência de Commits & Atividade
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusbraganasc&theme=dark&background=0D1117&border=00bfbf&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakNum=00bfbf&sideNums=c9d1d9&sideTitle=c9d1d9" alt="GitHub Streak Stats" />
+</p>
+
+---
+
 <div align="center">  
   <a href="https://www.instagram.com/tamnynb/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
